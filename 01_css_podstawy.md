@@ -537,7 +537,7 @@ h2 {
 
 ---
 
-## Część 7: Ćwiczenia Praktyczne - wykorzystaj kod z części 6
+## Część 7: Ćwiczenia Praktyczne - wykorzystaj kod (pliki html, css) z części 6
 
 ### Ćwiczenie 1: Zmiana Kolorów
 
